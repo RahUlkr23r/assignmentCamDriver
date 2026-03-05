@@ -40,8 +40,8 @@ A **real-time fleet monitoring dashboard** that simulates dashcam events (speedi
 ---
 
 ## 🎥 Demo Video
+https://github.com/RahUlkr23r/assignmentCamDriver/tree/main/backend/demo%20video
 
-### Watch the live demo:
 
 
 
