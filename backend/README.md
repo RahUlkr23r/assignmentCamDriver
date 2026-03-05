@@ -31,7 +31,7 @@ A **real-time fleet monitoring dashboard** that simulates dashcam events and dis
 
 ## 🎥 Project Demo
 
-https://github.com/user-attachments/demo video/Recording 2026-03-05 132717.mp4
+https://github.com/user-attachments/backend/demo video
 
 
 
